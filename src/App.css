@@ -1,0 +1,7 @@
+.leafletsize{
+  width: 500px !important;
+  height: 500px !important;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+}
